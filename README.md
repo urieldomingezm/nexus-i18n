@@ -2,7 +2,13 @@
 
 Núcleo de i18n diminuto para las librerías NEXUS (nexus-dialogs, nexus-tours, nexus-expediente): claves anidadas, interpolación, plurales con `Intl.PluralRules`, idioma de respaldo y formatos `Intl`. Sin dependencias y sin DOM.
 
-> Estado: núcleo implementado y probado (~1.1 KB gzip). Aún sin publicar en npm.
+> Estado: núcleo implementado y probado (~1.1 KB gzip).
+
+## Instalación
+
+```sh
+npm i nexus-i18n
+```
 
 ```ts
 import { createI18n } from 'nexus-i18n'
