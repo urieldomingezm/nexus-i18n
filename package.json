@@ -1,6 +1,6 @@
 {
   "name": "nexus-i18n",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Tiny i18n core for the NEXUS libraries: nested keys, interpolation, plurals via Intl, fallback and Intl formatters. Dependency-free, no DOM.",
   "keywords": [
     "i18n",
